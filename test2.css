@@ -1,0 +1,75 @@
+body 
+
+{
+	background-color: hotpink;
+	text-align: center;
+	}
+div
+{
+height: 200px;
+	width: 200px;
+	border: 2px solid yellow ;
+	margin-right: 150px;
+	float: left;
+}
+ .c1
+{
+background-color: skyblue;
+width: 200px;
+height: 230px;
+margin-left: 170px;
+border-radius: 17px;
+
+}
+.c2
+{
+	background-color: mediumaquamarine;
+	width: 200px;
+	height: 230px;
+	border-radius: 20px;
+
+}
+.c3
+{
+	background-color: darkgoldenrod;
+	width: 150px;
+	height: 210px;
+	border-radius: 10px;
+}
+img
+{
+	width: 200px;
+	height: 200px;
+	margin-top: 0px;
+	border-radius: 5px;
+
+}
+h1
+{
+	text-align: center;
+	margin-top: 5px;
+	border: 2px solid black;
+	border-radius: 10px;
+	background-color: grey;
+}
+p
+{
+	text-align: center;
+	margin-top: 1px;
+
+}
+h2
+{
+	text-align: center;
+	margin-top: 270px;
+	border: 2px solid black;
+	border-radius: 10px ;
+	background-color: grey;
+}
+.c7
+{
+	border-radius: 5px;
+	height: 25px;
+	width: 200px;
+	background-color: white;
+}
